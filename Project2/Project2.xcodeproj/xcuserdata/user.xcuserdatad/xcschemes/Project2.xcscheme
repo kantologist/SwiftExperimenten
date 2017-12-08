@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "CEC4326D1F2FAA530047BCFB"
-               BuildableName = "PitchPrfect.app"
-               BlueprintName = "PitchPrfect"
-               ReferencedContainer = "container:PitchPrfect.xcodeproj">
+               BlueprintIdentifier = "CEA001A01FAE6FC10067EE82"
+               BuildableName = "Project2.app"
+               BlueprintName = "Project2"
+               ReferencedContainer = "container:Project2.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,30 +33,30 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "CEC432811F2FAA540047BCFB"
-               BuildableName = "PitchPrfectTests.xctest"
-               BlueprintName = "PitchPrfectTests"
-               ReferencedContainer = "container:PitchPrfect.xcodeproj">
+               BlueprintIdentifier = "CEA001B41FAE6FC20067EE82"
+               BuildableName = "Project2Tests.xctest"
+               BlueprintName = "Project2Tests"
+               ReferencedContainer = "container:Project2.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "CEC4328C1F2FAA540047BCFB"
-               BuildableName = "PitchPrfectUITests.xctest"
-               BlueprintName = "PitchPrfectUITests"
-               ReferencedContainer = "container:PitchPrfect.xcodeproj">
+               BlueprintIdentifier = "CEA001BF1FAE6FC20067EE82"
+               BuildableName = "Project2UITests.xctest"
+               BlueprintName = "Project2UITests"
+               ReferencedContainer = "container:Project2.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "CEC4326D1F2FAA530047BCFB"
-            BuildableName = "PitchPrfect.app"
-            BlueprintName = "PitchPrfect"
-            ReferencedContainer = "container:PitchPrfect.xcodeproj">
+            BlueprintIdentifier = "CEA001A01FAE6FC10067EE82"
+            BuildableName = "Project2.app"
+            BlueprintName = "Project2"
+            ReferencedContainer = "container:Project2.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -77,10 +77,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "CEC4326D1F2FAA530047BCFB"
-            BuildableName = "PitchPrfect.app"
-            BlueprintName = "PitchPrfect"
-            ReferencedContainer = "container:PitchPrfect.xcodeproj">
+            BlueprintIdentifier = "CEA001A01FAE6FC10067EE82"
+            BuildableName = "Project2.app"
+            BlueprintName = "Project2"
+            ReferencedContainer = "container:Project2.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -96,10 +96,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "CEC4326D1F2FAA530047BCFB"
-            BuildableName = "PitchPrfect.app"
-            BlueprintName = "PitchPrfect"
-            ReferencedContainer = "container:PitchPrfect.xcodeproj">
+            BlueprintIdentifier = "CEA001A01FAE6FC10067EE82"
+            BuildableName = "Project2.app"
+            BlueprintName = "Project2"
+            ReferencedContainer = "container:Project2.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
